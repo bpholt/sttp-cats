@@ -1,4 +1,4 @@
-# sttp-cats - Cats instances for sttp [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.planetholt/sttp-cats_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.planetholt/sttp-cats_2.12) ![Code of Consuct](https://img.shields.io/badge/Code%20of%20Conduct-Scala-blue.svg)
+# sttp-cats - Cats instances for sttp [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.planetholt/sttp-cats_2.13/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.planetholt/sttp-cats_2.13) ![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Scala-blue.svg)
 
 ```scala
 import sttp.cats.instances._
